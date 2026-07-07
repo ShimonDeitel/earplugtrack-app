@@ -1,0 +1,40 @@
+{
+  "identifier": "1",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Earplugtrack Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2100001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Comparison chart: earplug nights vs non-earplug nights",
+              "displayName": "Earplugtrack Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.earpluglog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Earplugtrack Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
